@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '32536'
     url: http://www.gutenberg.org/2009/agents/32536
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27202#Wagner-the-Wehr-Wolf
 gutenberg_issued: '2008-11-08'
 gutenberg_type: Text
 identifiers:
